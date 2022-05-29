@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Meu nome",
+    "cpf": "15645572785",
+    "email": "emailqualquer@hotmail.com",
+    "whatsapp": "11999999999",
+    "address": {
+      "postal_code": "88101280",
+      "street": "Rua Vereador Mário Coelho Pires",
+      "number": "200",
+      "details": "ap 1000",
+      "district": "Campinas",
+      "city_state": "São José/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  },
+  "cpf_invalid": {
+    "name": "Outro usuário",
+    "cpf": "A564557278X",
+    "email": "mail@hotmail.com",
+    "whatsapp": "11988888888",
+    "address": {
+      "postal_code": "88101280",
+      "street": "Rua Vereador Mário Coelho Pires",
+      "number": "200",
+      "details": "ap 1000",
+      "district": "Campinas",
+      "city_state": "São José/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  },
+  "email_invalid": {
+    "name": "Meu nome",
+    "cpf": "15645572785",
+    "email": "invalido.hotmail.com",
+    "whatsapp": "11999999999",
+    "address": {
+      "postal_code": "88101280",
+      "street": "Rua Vereador Mário Coelho Pires",
+      "number": "200",
+      "details": "ap 1000",
+      "district": "Campinas",
+      "city_state": "São José/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  }
+}
